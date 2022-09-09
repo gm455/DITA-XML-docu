@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_multiply_numbers">
+    <title>How to multiply numbers</title>
+    <shortdesc>Here you will find instructions for using the multiplication function of the JPS
+        Calculation App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xgw_dxx_t5b">
+            <p>To succussfully multiply numbers, you must know what multiplication is.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the multiplication (X) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_ctg_vxx_t5b">
+            <p>The result of the multiplication is displayed.</p>
+        </result>
+        <example id="example_yk5_2yx_t5b">
+            <p>You want to multiply 9 by 6. </p>
+            <p>The equation will look like this: 9 X 6. </p>
+            <p>You enter 9. Press X. Enter 6 Press the equal sign.</p>
+            <p>The result of 54 will appear on the screen.</p>
+        </example>
+    </taskbody>
+</task>

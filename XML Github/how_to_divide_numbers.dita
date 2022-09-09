@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_divide_numbers">
+    <title>How to divide numbers</title>
+    <shortdesc>Here you will find instructions for using the multiplication function of the JPS
+        Calculation App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_tvx_ryx_t5b">
+            <p>To successfully divide numbers, you must know what division is</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the divide (÷) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_qc3_hzx_t5b">
+            <p>The result of the division is displayed.</p>
+        </result>
+        <example id="example_f3q_3zx_t5b">
+            <p>You want to divide 81 by 9.</p>
+            <p>The equation will look like this: 81 ÷ 9.</p>
+            <p>You enter 81. Press ÷. Enter 9. Press the equal sign.</p>
+            <p>The result of 9 will appear on the screen.</p>
+        </example>
+    </taskbody>
+</task>
